@@ -1,0 +1,24 @@
+{
+  "name": "typespec-bug",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsp compile ."
+  },
+  "peerDependencies": {
+    "@typespec/compiler": "latest",
+    "@typespec/http": "latest",
+    "@typespec/openapi": "latest",
+    "@typespec/openapi3": "latest",
+    "@typespec/rest": "latest"
+  },
+  "devDependencies": {
+    "@typespec/compiler": "latest",
+    "@typespec/http": "latest",
+    "@typespec/http-client-js": "^0.3.0",
+    "@typespec/openapi": "latest",
+    "@typespec/openapi3": "latest",
+    "@typespec/rest": "latest"
+  },
+  "private": true
+}
