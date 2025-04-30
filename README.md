@@ -1,3 +1,5 @@
+# this issue has been resolved in the latest version of @typespec/http-client-js.
+
 # typespec-bug
 
 ```sh
